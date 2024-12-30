@@ -23,11 +23,11 @@ To run Assembly EndGame locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/assembly-endgame.git
+   git clone https://github.com/GuleWako/Assembly-EndGame.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd assembly-endgame
+   cd Assembly-EndGame
    ```
 3. Install dependencies:
    ```bash
@@ -35,24 +35,16 @@ To run Assembly EndGame locally, follow these steps:
    ```
 4. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
-5. Open your browser and navigate to `http://localhost:3000` to play the game.
+5. Open your browser and navigate to `http://localhost:5173` to play the game.
 
 ## Technologies Used
 
 * **Frontend** : React.js
 * **State Management** : React hooks (useState, useEffect)
-* **Styling** : CSS/SCSS
+* **Styling** : Tailwind-CSS
 * **Game Logic** : Custom React components and state handling
-
-## Future Enhancements
-
-* **Leaderboard** : Track and display high scores.
-* **Difficulty Levels** : Introduce easy, medium, and hard difficulty modes.
-* **Additional Themes** : Add more visual themes for enhanced user experience.
-* **Multiplayer Mode** : Allow players to compete against each other.
-* **Programming Language Facts** : Display fun facts about programming languages after each game.
 
 ## Contributing
 
@@ -72,16 +64,5 @@ Contributions are welcome! If you'd like to contribute to Assembly EndGame, plea
    git push origin feature-name
    ```
 5. Submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](https://chatgpt.com/c/LICENSE) file for details.
-
-## Acknowledgments
-
-* Inspiration for the game concept comes from the dynamic relationship between Assembly and modern programming languages.
-* Special thanks to the React community for their tools and resources.
-
----
 
 Enjoy saving programming languages in  **Assembly EndGame** ! 🚀
